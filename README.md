@@ -1,4 +1,4 @@
-#Epiphyte model
+# Epiphyte model
 
 The epiphyte model is a water balance model for vascular epiphytes. To capture the dynamics of the water fluxes through epiphytes, the epiphyte model follows an approach similar to the resistor-capacitor model of the soil-plant-atmosphere continuum, without the soil component, and with the addition of schemes for external tank water storage and absorption of atmospheric water vapor through trichomes and velamen in humid conditions. Given inputs of air temperature, solar radiation, and specific humidity, the model estimates transpiration, carbon assimilation, and other hydraulic and photosynthetic variables. The model is currently parameterized to Guzmania monostachia, an epiphytic tank bromeliad that uses both C3 and CAM photosynthesis.
 
